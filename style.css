@@ -141,7 +141,7 @@ body {
 
 .hero-section {
   height: 100vh;
-  background-image: url(../assets/banner.jpg);
+  background-image: url(../banner.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -190,7 +190,7 @@ body {
 .autopsy-section {
   width:100%;
   background-image: linear-gradient(45deg, #250304, #c21c1f);
-  background-image: url(../assets/midbanner.jpg);
+  background-image: url(../midbanner.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
